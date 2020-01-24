@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>serverPointLocations.csv</name>
+	<Schema name="serverPointLocations" id="S_serverPointLocations_DDSSIII">
+		<SimpleField type="double" name="Long"><displayName>&lt;b&gt;Long&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="lat"><displayName>&lt;b&gt;lat&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Place"><displayName>&lt;b&gt;Place&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Type"><displayName>&lt;b&gt;Type&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="Day"><displayName>&lt;b&gt;Day&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="unnamed"><displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="unnamed_2"><displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="normPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Long</b></td><td>$[serverPointLocations/Long]</td></tr>
+  <tr><td><b>lat</b></td><td>$[serverPointLocations/lat]</td></tr>
+  <tr><td><b>Place</b></td><td>$[serverPointLocations/Place]</td></tr>
+  <tr><td><b>Type</b></td><td>$[serverPointLocations/Type]</td></tr>
+  <tr><td><b>Day</b></td><td>$[serverPointLocations/Day]</td></tr>
+  <tr><td><b></b></td><td>$[serverPointLocations/unnamed]</td></tr>
+  <tr><td><b></b></td><td>$[serverPointLocations/unnamed_2]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="pointStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="hlightPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Long</b></td><td>$[serverPointLocations/Long]</td></tr>
+  <tr><td><b>lat</b></td><td>$[serverPointLocations/lat]</td></tr>
+  <tr><td><b>Place</b></td><td>$[serverPointLocations/Place]</td></tr>
+  <tr><td><b>Type</b></td><td>$[serverPointLocations/Type]</td></tr>
+  <tr><td><b>Day</b></td><td>$[serverPointLocations/Day]</td></tr>
+  <tr><td><b></b></td><td>$[serverPointLocations/unnamed]</td></tr>
+  <tr><td><b></b></td><td>$[serverPointLocations/unnamed_2]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder id="layer 0">
+		<name>serverPointLocations</name>
+		<Placemark>
+			<name>Chittagong</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">22.3289</SimpleData>
+					<SimpleData name="lat">91.783</SimpleData>
+					<SimpleData name="Place">Chittagong</SimpleData>
+					<SimpleData name="Type">Stockpile</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>91.78303800000003,22.32891099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pabna</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">24.0141</SimpleData>
+					<SimpleData name="lat">89.2587</SimpleData>
+					<SimpleData name="Place">Pabna</SimpleData>
+					<SimpleData name="Type">Stockpile</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.25872400000004,24.01407499999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dhaka</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">23.7786</SimpleData>
+					<SimpleData name="lat">90.3795</SimpleData>
+					<SimpleData name="Place">Dhaka</SimpleData>
+					<SimpleData name="Type">Stockpile</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.379498,23.77861300000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khulna</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">22.8133</SimpleData>
+					<SimpleData name="lat">89.5651</SimpleData>
+					<SimpleData name="Place">Khulna</SimpleData>
+					<SimpleData name="Type">Stockpile</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.56512399999997,22.81332500000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DhakaAirport</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">23.8435</SimpleData>
+					<SimpleData name="lat">90.4029</SimpleData>
+					<SimpleData name="Place">DhakaAirport</SimpleData>
+					<SimpleData name="Type">Airport</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.402925,23.843483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PortChittagong</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">22.3092</SimpleData>
+					<SimpleData name="lat">91.8017</SimpleData>
+					<SimpleData name="Place">PortChittagong</SimpleData>
+					<SimpleData name="Type">Port</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>91.80168200000004,22.309248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GoBStorage1</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">23.5428</SimpleData>
+					<SimpleData name="lat">90.5286</SimpleData>
+					<SimpleData name="Place">GoBStorage1</SimpleData>
+					<SimpleData name="Type">Storage</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.52861000000001,23.54277899999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chandpur</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">23.2332</SimpleData>
+					<SimpleData name="lat">90.6628</SimpleData>
+					<SimpleData name="Place">Chandpur</SimpleData>
+					<SimpleData name="Type">Storage</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.662807,23.233227,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barisal</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">22.7033</SimpleData>
+					<SimpleData name="lat">90.3492</SimpleData>
+					<SimpleData name="Place">Barisal</SimpleData>
+					<SimpleData name="Type">Storage</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.34917100000001,22.703295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brahmanbaria</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_serverPointLocations_DDSSIII">
+					<SimpleData name="Long">23.9691</SimpleData>
+					<SimpleData name="lat">91.1095</SimpleData>
+					<SimpleData name="Place">Brahmanbaria</SimpleData>
+					<SimpleData name="Type">Storage</SimpleData>
+					<SimpleData name="Day">0</SimpleData>
+					<SimpleData name="unnamed">0</SimpleData>
+					<SimpleData name="unnamed_2">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>91.10952999999999,23.96913699999998,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

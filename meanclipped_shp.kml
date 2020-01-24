@@ -1,0 +1,2197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>meanclipped_shp.kml</name>
+	<Schema name="meanclipped_shp" id="S_meanclipped_shp_DDS">
+		<SimpleField type="double" name="MEAN_X"><displayName>&lt;b&gt;MEAN_X&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="MEAN_Y"><displayName>&lt;b&gt;MEAN_Y&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="UPAZILA"><displayName>&lt;b&gt;UPAZILA&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="normPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>MEAN_X</b></td><td>$[meanclipped_shp/MEAN_X]</td></tr>
+  <tr><td><b>MEAN_Y</b></td><td>$[meanclipped_shp/MEAN_Y]</td></tr>
+  <tr><td><b>UPAZILA</b></td><td>$[meanclipped_shp/UPAZILA]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="hlightPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>MEAN_X</b></td><td>$[meanclipped_shp/MEAN_X]</td></tr>
+  <tr><td><b>MEAN_Y</b></td><td>$[meanclipped_shp/MEAN_Y]</td></tr>
+  <tr><td><b>UPAZILA</b></td><td>$[meanclipped_shp/UPAZILA]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="pointStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="layer 0">
+		<name>meanclipped_shp</name>
+		<open>1</open>
+		<Placemark>
+			<name>Wazirpur</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">517747</SimpleData>
+					<SimpleData name="MEAN_Y">2.5267e+06</SimpleData>
+					<SimpleData name="UPAZILA">Wazirpur</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.17300189181812,22.8498029733176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barisal</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">541026</SimpleData>
+					<SimpleData name="MEAN_Y">2.51257e+06</SimpleData>
+					<SimpleData name="UPAZILA">Barisal</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.39956333651901,22.72173941103105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mehendiganj</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">552679</SimpleData>
+					<SimpleData name="MEAN_Y">2.52221e+06</SimpleData>
+					<SimpleData name="UPAZILA">Mehendiganj</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.51337906162054,22.80851910181831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jhalokati</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">519459</SimpleData>
+					<SimpleData name="MEAN_Y">2.50945e+06</SimpleData>
+					<SimpleData name="UPAZILA">Jhalokati</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.18948166225196,22.69395038170488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rajapur</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">512883</SimpleData>
+					<SimpleData name="MEAN_Y">2.49276e+06</SimpleData>
+					<SimpleData name="UPAZILA">Rajapur</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.12531080035619,22.54324318391313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agailjhara</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">516196</SimpleData>
+					<SimpleData name="MEAN_Y">2.54036e+06</SimpleData>
+					<SimpleData name="UPAZILA">Agailjhara</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.15802490812052,22.97325458431617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nesarabad</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">510483</SimpleData>
+					<SimpleData name="MEAN_Y">2.51317e+06</SimpleData>
+					<SimpleData name="UPAZILA">Nesarabad</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.10209746241564,22.72766152030342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nalchity</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">530159</SimpleData>
+					<SimpleData name="MEAN_Y">2.5007e+06</SimpleData>
+					<SimpleData name="UPAZILA">Nalchity</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.29350383982698,22.61474502401175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bhola</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">564423</SimpleData>
+					<SimpleData name="MEAN_Y">2.50754e+06</SimpleData>
+					<SimpleData name="UPAZILA">Bhola</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.62722328718381,22.67563363612904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Banaripara</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">513179</SimpleData>
+					<SimpleData name="MEAN_Y">2.52181e+06</SimpleData>
+					<SimpleData name="UPAZILA">Banaripara</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.12843693294103,22.80567339159576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Babuganj</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">532856</SimpleData>
+					<SimpleData name="MEAN_Y">2.52288e+06</SimpleData>
+					<SimpleData name="UPAZILA">Babuganj</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.32021446180198,22.8151215060112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bandaria</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">505172</SimpleData>
+					<SimpleData name="MEAN_Y">2.48348e+06</SimpleData>
+					<SimpleData name="UPAZILA">Bandaria</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.05027554179343,22.45948761439571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muladi</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">539582</SimpleData>
+					<SimpleData name="MEAN_Y">2.53963e+06</SimpleData>
+					<SimpleData name="UPAZILA">Muladi</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.38619372817375,22.96629129417919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bakerganj</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">538519</SimpleData>
+					<SimpleData name="MEAN_Y">2.49335e+06</SimpleData>
+					<SimpleData name="UPAZILA">Bakerganj</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.37467940583612,22.54819411187073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kawkhali</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">506524</SimpleData>
+					<SimpleData name="MEAN_Y">2.49874e+06</SimpleData>
+					<SimpleData name="UPAZILA">Kawkhali</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.06348339848449,22.59729877926229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hizla</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">551188</SimpleData>
+					<SimpleData name="MEAN_Y">2.54074e+06</SimpleData>
+					<SimpleData name="UPAZILA">Hizla</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.49946122997596,22.97600323477073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tazumuddin</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">587096</SimpleData>
+					<SimpleData name="MEAN_Y">2.48203e+06</SimpleData>
+					<SimpleData name="UPAZILA">Tazumuddin</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.84654258946982,22.44413754418016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Char Fasson</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">572794</SimpleData>
+					<SimpleData name="MEAN_Y">2.44627e+06</SimpleData>
+					<SimpleData name="UPAZILA">Char Fasson</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.70591629185149,22.12175855064829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lalmohan</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">577016</SimpleData>
+					<SimpleData name="MEAN_Y">2.46794e+06</SimpleData>
+					<SimpleData name="UPAZILA">Lalmohan</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.74789582774996,22.31732036006288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dashmina</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">555418</SimpleData>
+					<SimpleData name="MEAN_Y">2.46334e+06</SimpleData>
+					<SimpleData name="UPAZILA">Dashmina</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.53800583402388,22.27663006055206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burhanuddin</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">574908</SimpleData>
+					<SimpleData name="MEAN_Y">2.48543e+06</SimpleData>
+					<SimpleData name="UPAZILA">Burhanuddin</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.72824166411789,22.47540559761137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daulatkhan</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">573519</SimpleData>
+					<SimpleData name="MEAN_Y">2.50252e+06</SimpleData>
+					<SimpleData name="UPAZILA">Daulatkhan</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.71554201658186,22.62992766986973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mothbaria</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">498760</SimpleData>
+					<SimpleData name="MEAN_Y">2.46543e+06</SimpleData>
+					<SimpleData name="UPAZILA">Mothbaria</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.98796262888061,22.29642306549034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barguan</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">511691</SimpleData>
+					<SimpleData name="MEAN_Y">2.45284e+06</SimpleData>
+					<SimpleData name="UPAZILA">Barguan</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.11342720644232,22.18261845234117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Patuakhali</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">535254</SimpleData>
+					<SimpleData name="MEAN_Y">2.46892e+06</SimpleData>
+					<SimpleData name="UPAZILA">Patuakhali</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.34237997705731,22.3275636163379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Betagi</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">517680</SimpleData>
+					<SimpleData name="MEAN_Y">2.47141e+06</SimpleData>
+					<SimpleData name="UPAZILA">Betagi</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.17173576791983,22.35032533100651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bamna</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">503325</SimpleData>
+					<SimpleData name="MEAN_Y">2.46076e+06</SimpleData>
+					<SimpleData name="UPAZILA">Bamna</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.03227492007623,22.25415979306237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dumki</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">538003</SimpleData>
+					<SimpleData name="MEAN_Y">2.4818e+06</SimpleData>
+					<SimpleData name="UPAZILA">Dumki</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.36937941724268,22.44384741340255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mirzapur</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">521759</SimpleData>
+					<SimpleData name="MEAN_Y">2.47297e+06</SimpleData>
+					<SimpleData name="UPAZILA">Mirzapur</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.21137215341507,22.36437645622594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalapara</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">523008</SimpleData>
+					<SimpleData name="MEAN_Y">2.43367e+06</SimpleData>
+					<SimpleData name="UPAZILA">Kalapara</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.22294908451188,22.00923332293311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kanthalia</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">508875</SimpleData>
+					<SimpleData name="MEAN_Y">2.48054e+06</SimpleData>
+					<SimpleData name="UPAZILA">Kanthalia</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.08625913489243,22.43290343250844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amtali</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">526002</SimpleData>
+					<SimpleData name="MEAN_Y">2.4439e+06</SimpleData>
+					<SimpleData name="UPAZILA">Amtali</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.25212485995814,22.10167177845469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Patharghata</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">498783</SimpleData>
+					<SimpleData name="MEAN_Y">2.45182e+06</SimpleData>
+					<SimpleData name="UPAZILA">Patharghata</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.98819346088796,22.17342464702436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bauphal</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">553723</SimpleData>
+					<SimpleData name="MEAN_Y">2.48025e+06</SimpleData>
+					<SimpleData name="UPAZILA">Bauphal</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.52212409089618,22.42944556238001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Galachipa</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">545762</SimpleData>
+					<SimpleData name="MEAN_Y">2.44963e+06</SimpleData>
+					<SimpleData name="UPAZILA">Galachipa</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>90.44388147745333,22.15303785141173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zianagar</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">494685</SimpleData>
+					<SimpleData name="MEAN_Y">2.48829e+06</SimpleData>
+					<SimpleData name="UPAZILA">Zianagar</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.94831575736491,22.50287943570707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuchua</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">487070</SimpleData>
+					<SimpleData name="MEAN_Y">2.50529e+06</SimpleData>
+					<SimpleData name="UPAZILA">Kuchua</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.87413242933023,22.6564924234956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nazirpur</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">497868</SimpleData>
+					<SimpleData name="MEAN_Y">2.51768e+06</SimpleData>
+					<SimpleData name="UPAZILA">Nazirpur</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.97922545333098,22.76844056889612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirojpur</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">497919</SimpleData>
+					<SimpleData name="MEAN_Y">2.49968e+06</SimpleData>
+					<SimpleData name="UPAZILA">Pirojpur</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.97975034354808,22.60579946231096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KCC (Sonadanga)</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">452921</SimpleData>
+					<SimpleData name="MEAN_Y">2.5236e+06</SimpleData>
+					<SimpleData name="UPAZILA">KCC (Sonadanga)</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.54115225693657,22.82125408933695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terokhada</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">464404</SimpleData>
+					<SimpleData name="MEAN_Y">2.53214e+06</SimpleData>
+					<SimpleData name="UPAZILA">Terokhada</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.6528740223031,22.8987454308431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morrelganj</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">482556</SimpleData>
+					<SimpleData name="MEAN_Y">2.4871e+06</SimpleData>
+					<SimpleData name="UPAZILA">Morrelganj</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.83038826787862,22.49204701204432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rampal</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">467354</SimpleData>
+					<SimpleData name="MEAN_Y">2.49792e+06</SimpleData>
+					<SimpleData name="UPAZILA">Rampal</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.68235834209207,22.58956808464443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rupsa</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">462684</SimpleData>
+					<SimpleData name="MEAN_Y">2.52265e+06</SimpleData>
+					<SimpleData name="UPAZILA">Rupsa</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.63632193280056,22.81288987842096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sarankhola</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">480619</SimpleData>
+					<SimpleData name="MEAN_Y">2.45277e+06</SimpleData>
+					<SimpleData name="UPAZILA">Sarankhola</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.81196723698747,22.18186880976676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dighalia</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">456696</SimpleData>
+					<SimpleData name="MEAN_Y">2.53572e+06</SimpleData>
+					<SimpleData name="UPAZILA">Dighalia</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.57760836905895,22.93089487987366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KCC (Kotwali)</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">455507</SimpleData>
+					<SimpleData name="MEAN_Y">2.52114e+06</SimpleData>
+					<SimpleData name="UPAZILA">KCC (Kotwali)</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.56642400021957,22.79914344097374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mongla</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">466664</SimpleData>
+					<SimpleData name="MEAN_Y">2.46426e+06</SimpleData>
+					<SimpleData name="UPAZILA">Mongla</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.67634889382727,22.28547961511585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mollahat</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">476079</SimpleData>
+					<SimpleData name="MEAN_Y">2.52879e+06</SimpleData>
+					<SimpleData name="UPAZILA">Mollahat</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.76677954014622,22.86860918588207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chitalmari</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">485291</SimpleData>
+					<SimpleData name="MEAN_Y">2.52184e+06</SimpleData>
+					<SimpleData name="UPAZILA">Chitalmari</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.85665249906424,22.80593092600268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fakirhat</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">467775</SimpleData>
+					<SimpleData name="MEAN_Y">2.51577e+06</SimpleData>
+					<SimpleData name="UPAZILA">Fakirhat</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.68608333616434,22.7508515723215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bagerhat</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">475989</SimpleData>
+					<SimpleData name="MEAN_Y">2.50861e+06</SimpleData>
+					<SimpleData name="UPAZILA">Bagerhat</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.76621197014015,22.68632622997853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KCC (Khalishpur)</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">452162</SimpleData>
+					<SimpleData name="MEAN_Y">2.52669e+06</SimpleData>
+					<SimpleData name="UPAZILA">KCC (Khalishpur)</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.53366170569178,22.84912828678005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KCC (Khan Jahan Ali)</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">450408</SimpleData>
+					<SimpleData name="MEAN_Y">2.52815e+06</SimpleData>
+					<SimpleData name="UPAZILA">KCC (Khan Jahan Ali)</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.51651391252153,22.86230670427251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KCC (Daulatpur)</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">450198</SimpleData>
+					<SimpleData name="MEAN_Y">2.53034e+06</SimpleData>
+					<SimpleData name="UPAZILA">KCC (Daulatpur)</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.51439935700483,22.88212140941303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Batiagahata</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">449986</SimpleData>
+					<SimpleData name="MEAN_Y">2.51229e+06</SimpleData>
+					<SimpleData name="UPAZILA">Batiagahata</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.51290849568601,22.7189648070787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dacope</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">448347</SimpleData>
+					<SimpleData name="MEAN_Y">2.48654e+06</SimpleData>
+					<SimpleData name="UPAZILA">Dacope</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.49779232802041,22.4863210527118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Phultala</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">441496</SimpleData>
+					<SimpleData name="MEAN_Y">2.53738e+06</SimpleData>
+					<SimpleData name="UPAZILA">Phultala</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.42928627046611,22.94543696639639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khan Jahan Ali</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">447715</SimpleData>
+					<SimpleData name="MEAN_Y">2.5321e+06</SimpleData>
+					<SimpleData name="UPAZILA">Khan Jahan Ali</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.49012913955551,22.89794757578096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Koyra</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">432232</SimpleData>
+					<SimpleData name="MEAN_Y">2.46953e+06</SimpleData>
+					<SimpleData name="UPAZILA">Koyra</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.34184301615504,22.33205068697264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dumuria</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">437474</SimpleData>
+					<SimpleData name="MEAN_Y">2.52256e+06</SimpleData>
+					<SimpleData name="UPAZILA">Dumuria</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.39064551406364,22.81135087804402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paikgachha</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">431383</SimpleData>
+					<SimpleData name="MEAN_Y">2.49862e+06</SimpleData>
+					<SimpleData name="UPAZILA">Paikgachha</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.33234007072552,22.59490138533683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shyamnagar</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">416402</SimpleData>
+					<SimpleData name="MEAN_Y">2.45291e+06</SimpleData>
+					<SimpleData name="UPAZILA">Shyamnagar</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.18897993304802,22.1812632381607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalaroa</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">401488</SimpleData>
+					<SimpleData name="MEAN_Y">2.53103e+06</SimpleData>
+					<SimpleData name="UPAZILA">Kalaroa</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.03943844411396,22.88613084882491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaliganj</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">403952</SimpleData>
+					<SimpleData name="MEAN_Y">2.48113e+06</SimpleData>
+					<SimpleData name="UPAZILA">Kaliganj</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.06651544203329,22.43552706728135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Assasuni</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">417111</SimpleData>
+					<SimpleData name="MEAN_Y">2.48852e+06</SimpleData>
+					<SimpleData name="UPAZILA">Assasuni</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.19400456039949,22.50294468183117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Debhata</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">400077</SimpleData>
+					<SimpleData name="MEAN_Y">2.49979e+06</SimpleData>
+					<SimpleData name="UPAZILA">Debhata</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.02767702992486,22.60389381282719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Satkhira</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">403672</SimpleData>
+					<SimpleData name="MEAN_Y">2.51271e+06</SimpleData>
+					<SimpleData name="UPAZILA">Satkhira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.06186576876229,22.72077138385931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tala</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+					</Icon>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff02fc</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_meanclipped_shp_DDS">
+					<SimpleData name="MEAN_X">418337</SimpleData>
+					<SimpleData name="MEAN_Y">2.51462e+06</SimpleData>
+					<SimpleData name="UPAZILA">Tala</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>89.20457616069086,22.73885743238374,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,373 @@
+Location,zone,circle,division,subdivision,roadno,road name,structure name,numberofsp,structure type,total width,total lengt,bcs category
+(89.63361399999999435 22.74472199999999944),Khulna,Khulna,Bagerhat,Bagerhat-2,N7,Dauladia-Faridpur (Goalchamot)-Magura-Jhenaidah-Jessore-Khulna-Mongla (Digraj) Road,Jugikhali bridge,3,PC Girder Bridge,9.3,81.379997,C
+(89.64194500000000687 22.63194500000000176),Khulna,Khulna,Bagerhat,Bagerhat-2,N7,Dauladia-Faridpur (Goalchamot)-Magura-Jhenaidah-Jessore-Khulna-Mongla (Digraj) Road,,1,RCC Girder Bridge,9.55,26.549999,B
+(89.63138600000000622 22.58861200000000125),Khulna,Khulna,Bagerhat,Bagerhat-2,N7,Dauladia-Faridpur (Goalchamot)-Magura-Jhenaidah-Jessore-Khulna-Mongla (Digraj) Road,Bogra Bridge,3,RCC Girder Bridge,9.5,52.82,C
+(89.6269450000000063 22.5844440000000013),Khulna,Khulna,Bagerhat,Bagerhat-2,N7,Dauladia-Faridpur (Goalchamot)-Magura-Jhenaidah-Jessore-Khulna-Mongla (Digraj) Road,Tatulia bridge,1,PC Girder Bridge,9.45,31.219999,A
+(89.61416599999999733 22.57333399999999912),Khulna,Khulna,Bagerhat,Bagerhat-2,N7,Dauladia-Faridpur (Goalchamot)-Magura-Jhenaidah-Jessore-Khulna-Mongla (Digraj) Road,Balai bridge.,3,RCC Girder Bridge,9.35,56.43,C
+(90.21083099999999888 23.07194499999999948),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Bourgata bridge,5,RCC Girder Bridge,8.7,55.869999,B
+(90.21583599999999592 23.01527799999999857),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Souderkhal bridge,3,RCC Girder Bridge,8.73,31.1,C
+(90.21514100000000269 23.01527799999999857),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Souderkhal bridge,3,RCC Girder Bridge,8.73,31.1,C
+(90.22222100000000466 23.00361099999999936),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Nilkhola bridge,3,RCC Girder Bridge,8.9,31.049999,A
+(90.22222100000000466 22.99722300000000175),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Lakherajkosba bridge,1,RCC Girder Bridge,8.7,26.950001,B
+(90.2225040000000007 22.97500000000000142),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,gounagata  bridge,3,RCC Girder Bridge,7.2,43,B
+(90.22472399999999482 22.96277800000000013),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Asokoti bridge,1,RCC Girder Bridge,7.1,27.5,C
+(90.2300029999999964 22.94777900000000059),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Kasomabad bridge,1,Steel Beam & RCC Slab,7,13,B
+(90.23166700000000162 22.94500000000000028),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Lalpur bridge,1,Steel Beam & RCC Slab,7,9.6999998,B
+(90.25777399999999773 22.88888899999999893),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Bamrail bridge,1,RCC Girder Bridge,7.1,24.15,B
+(90.26222199999999418 22.82500100000000032),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Jalil bridge,6,PC Girder Bridge,9.9,289.95001,A
+(90.27999900000000366 22.80999900000000125),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Capt. Mohiuddin Jahangir bridge,8,PC Girder Bridge,10,386.94,A
+(90.29972100000000523 22.79000100000000018),Barisal,Barisal,Barisal,Barisal-1,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Rahamatpur bridge,2,RCC Girder Bridge,7,32.299999,A
+(90.35555300000000045 22.68416600000000116),Barisal,Barisal,Barisal,Barisal-2,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Sagardi bridge,1,RCC Girder Bridge,9.35,12.2,B
+(90.3372190000000046 22.57527699999999982),Barisal,Barisal,Barisal,Barisal-2,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Boalia Bazar Bridge,1,Truss with Steel Deck,3.97,39.700001,C
+(90.33833300000000577 22.43944400000000172),Barisal,Patuakhali,Patuakhali,Patuakhali,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Moukorou Bridge,3,PC Girder Bridge,9.5,79.029999,B
+(90.32944500000000687 22.42000000000000171),Barisal,Patuakhali,Patuakhali,Patuakhali,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Moddho Badorpur Bridge,1,RCC Girder Bridge,8,12.95,A
+(90.32749900000000309 22.41194499999999934),Barisal,Patuakhali,Patuakhali,Patuakhali,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Gabua Bridge,1,RCC Girder Bridge,7.95,12.85,B
+(90.32027399999999773 22.3969440000000013),Barisal,Patuakhali,Patuakhali,Patuakhali,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Telikhalir Bridge,3,RCC Girder Bridge,7.65,79.220001,C
+(90.32055699999999376 22.38111100000000064),Barisal,Patuakhali,Patuakhali,Patuakhali,N8,Dhaka (Jatrabari)-Mawa-Bhanga-Barisal-Patuakhali Road,Sheyali Bailey,1,Baily with Steel Deck,4.11,21.530001,A
+(90.58905799999999431 22.73864000000000019),Barisal,Barisal,Bhola,Bhola,N809,Barishal-Laherhat-Veduria-Bhola-Illisha-Maju Chowdhuryhat-Lakshmipur Road,,3,PC Girder Bridge,10.3,130.10001,C
+(89.54055800000000431 22.80083300000000079),Khulna,Khulna,Khulna,Khulna-2,R760,Khulna-Chuknagar-Satkhira Road,Gollamari bridge,3,RCC Girder Bridge,8.25,49.599998,C
+(89.48999799999999993 22.79194499999999834),Khulna,Khulna,Khulna,Khulna-2,R760,Khulna-Chuknagar-Satkhira Road,Joykhali bridge,1,PC Girder Bridge,9.9,28.82,B
+(89.48278000000000532 22.79000100000000018),Khulna,Khulna,Khulna,Khulna-2,R760,Khulna-Chuknagar-Satkhira Road,Koya bridge,3,PC Girder Bridge,10.65,75,A
+(89.44833400000000267 22.79833400000000054),Khulna,Khulna,Khulna,Khulna-2,R760,Khulna-Chuknagar-Satkhira Road,Ghutudia bridge,1,PC Girder Bridge,10.05,26.799999,A
+(89.38861099999999738 22.81500099999999875),Khulna,Khulna,Khulna,Khulna-2,R760,Khulna-Chuknagar-Satkhira Road,Baliakhali bridge,3,PC Girder Bridge,9.1,89.120003,B
+(89.35111200000000053 22.82305500000000009),Khulna,Khulna,Khulna,Khulna-2,R760,Khulna-Chuknagar-Satkhira Road,Kharnia bridge,4,PC Girder Bridge,9.75,154.78999,B
+(89.13805399999999679 22.76611099999999865),Khulna,Khulna,Satkhira,Satkhira-1,R760,Khulna-Chuknagar-Satkhira Road,Shakdaha bridge,6,RCC Bridge,7.18,36.700001,B
+(89.10722400000000221 22.75333399999999884),Khulna,Khulna,Satkhira,Satkhira-1,R760,Khulna-Chuknagar-Satkhira Road,Sheejangal bridge,1,PC Girder Bridge,10.3,25.15,A
+(89.10416399999999726 22.75138899999999964),Khulna,Khulna,Satkhira,Satkhira-1,R760,Khulna-Chuknagar-Satkhira Road,Binerpota bridge,3,RCC Girder Bridge,10.7,75,C
+(89.07527899999999477 22.72361199999999926),Khulna,Khulna,Satkhira,Satkhira-1,R760,Khulna-Chuknagar-Satkhira Road,,1,RCC Girder Bridge,8.94,24.799999,C
+(89.66644300000000101 22.72200000000000131),Khulna,Khulna,Bagerhat,Bagerhat-2,R770,Noapara-Bagerhat-Pirojpur Road,,1,RCC Girder Bridge,7.8,19,C
+(89.68194599999999639 22.71249999999999858),Khulna,Khulna,Bagerhat,Bagerhat-2,R770,Noapara-Bagerhat-Pirojpur Road,,1,RCC Girder Bridge,7.8,13.2,C
+(89.70772599999999386 22.6968059999999987),Khulna,Khulna,Bagerhat,Bagerhat-2,R770,Noapara-Bagerhat-Pirojpur Road,,6,RCC Girder Bridge,8.5,60.919998,C
+(89.72261000000000308 22.68322200000000066),Khulna,Khulna,Bagerhat,Bagerhat-2,R770,Noapara-Bagerhat-Pirojpur Road,,1,Baily with Steel Deck,8.35,25,A
+(89.79910999999999888 22.6453339999999983),Khulna,Khulna,Bagerhat,Bagerhat-1,R770,Noapara-Bagerhat-Pirojpur Road,Daratana Bridge,13,PC Girder Bridge,10,630.85999,A
+(89.83113899999999319 22.62649899999999903),Khulna,Khulna,Bagerhat,Bagerhat-1,R770,Noapara-Bagerhat-Pirojpur Road,,1,Baily with Steel Deck,8.34,29.5,C
+(89.95822099999999466 22.57152699999999967),Khulna,Khulna,Bagerhat,Bagerhat-1,R770,Noapara-Bagerhat-Pirojpur Road,Baleshware bridge,9,PC Girder Bridge,10.05,336.84,A
+(89.71299700000000144 22.77160999999999902),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,10,C
+(89.71366899999999589 22.77172300000000149),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,10,A
+(89.71983299999999417 22.77377699999999905),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,3,RCC Bridge,10,46.119999,A
+(89.7290569999999974 22.79211000000000098),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,RCC Girder Bridge,10,10,B
+(89.73374900000000309 22.79799999999999827),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,10,A
+(89.73627500000000623 22.80202900000000099),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,30.02,A
+(89.73821999999999832 22.80791699999999977),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,10,C
+(89.74121900000000096 22.81569500000000161),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,30,A
+(89.74452999999999747 22.82049900000000164),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,2,RCC Bridge,10,16.049999,A
+(89.74444599999999639 22.8206389999999999),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,10,A
+(89.74755899999999542 22.82472200000000129),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,Chaderhat bridge,1,PC Girder Bridge,10.1,10,A
+(89.75269299999999362 22.83163800000000165),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,Thakurbari Bridge,1,PC Girder Bridge,10.5,10,B
+(89.75438699999999415 22.84922200000000103),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10.1,10,B
+(89.75527999999999906 22.85694499999999962),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,Madrashaghat Bridge,1,PC Girder Bridge,10,30,A
+(89.7616649999999936 22.87111099999999908),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10.1,10,A
+(89.76388500000000192 22.87444500000000147),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,10,C
+(89.76777599999999779 22.88055599999999856),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10.1,25,A
+(89.77639000000000635 22.89249999999999829),Khulna,Khulna,Bagerhat,Bagerhat-2,R856,Noapara (Katakhali)-Fakirhat-Mollahat Road,,1,PC Girder Bridge,10,30,A
+(90.33055899999999383 22.67000000000000171),Barisal,Barisal,Barisal,Barisal-1,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,,5,RCC Girder Bridge,9.1,130.17,B
+(90.21971899999999778 22.64277799999999985),Barisal,Barisal,Jhalokati,Jhalokati,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,Sutorlori bridge,3,RCC Girder Bridge,12.1,45.099998,B
+(90.2074970000000036 22.64916600000000102),Barisal,Barisal,Jhalokati,Jhalokati,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,,1,Baily with Steel Deck,9.75,42.869999,B
+(90.19527399999999773 22.65166699999999977),Barisal,Barisal,Jhalokati,Jhalokati,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,Basonda Bridge,3,Baily with Steel Deck,9.75,123.7,B
+(90.18277700000000152 22.64277799999999985),Barisal,Barisal,Jhalokati,Jhalokati,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,Gabkhan Bridge,25,PC Girder Bridge,9.75,910.59998,B
+(90.1036150000000049 22.50833300000000037),Barisal,Barisal,Jhalokati,Jhalokati,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,,1,PC Girder Bridge,11.68,24.1,A
+(90.0605549999999937 22.4866659999999996),Barisal,Barisal,Pirojpur,Kawkhali,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,Puna Bridge,4,Truss with Steel Deck,9.25,160.58,C
+(90.02027900000000216 22.48889000000000138),Barisal,Barisal,Pirojpur,Kawkhali,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,,3,PC Girder Bridge,12.03,47.310001,A
+(89.99472000000000094 22.51916699999999949),Barisal,Barisal,Pirojpur,Pirojpur,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,Chalnar Bridge,1,Baily with Steel Deck,9.8,36.150002,B
+(89.98083499999999901 22.54888899999999907),Barisal,Barisal,Pirojpur,Pirojpur,R870,Barisal-Jhalokati-Rajapur-Bhandaria-Pirojpur Road,Matibanga Bridge,1,PC Girder Bridge,10.02,29.940001,C
+(90.27222399999999425 22.18194400000000144),Barisal,Patuakhali,Patuakhali,Patuakhali,R880,Patuakhali-Amtali-Barguna-Kacchira Road,Amragachia Bazar Bridge,2,RCC Girder Bridge,10.53,41,A
+(90.12110900000000413 22.16083300000000023),Barisal,Patuakhali,Barguna,Barguna,R880,Patuakhali-Amtali-Barguna-Kacchira Road,Sadar road bridge,3,RCC Girder Bridge,9.43,30.34,A
+(90.1050029999999964 22.15805599999999842),Barisal,Patuakhali,Barguna,Barguna,R880,Patuakhali-Amtali-Barguna-Kacchira Road,Croke bridge,1,RCC Girder Bridge,10.31,27.969999,A
+(90.08805800000000374 22.15777800000000042),Barisal,Patuakhali,Barguna,Barguna,R880,Patuakhali-Amtali-Barguna-Kacchira Road,Patuakhali bridge,3,RCC Girder Bridge,4.8,27.5,B
+(90.64150200000000268 22.69002700000000061),Barisal,Barisal,Bhola,Bhola,R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,,4,RCC Girder Bridge,7.45,37.360001,A
+(90.65827899999999318 22.5935549999999985),Barisal,Barisal,Bhola,Bhola,R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,,1,Baily with Steel Deck,4.07,36.650002,A
+(90.6851649999999978 22.55652800000000013),Barisal,Barisal,Bhola,Bhola,R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,,1,Baily with Steel Deck,4.05,24.299999,A
+(90.71800199999999847 22.50274999999999892),Barisal,Barisal,Bhola,Bhola,R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,,1,Truss with Steel Deck,4.2,30.4,A
+(90.72450299999999856 22.49591600000000113),Barisal,Barisal,Bhola,Bhola,R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,,1,Baily with Steel Deck,4.06,18.200001,C
+(90.75030499999999734 22.39447200000000038),Barisal,Barisal,Bhola,Bhola,R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,,2,Baily with Steel Deck,5,61.75,C
+(90.71055599999999686 22.10694499999999962),Barisal,Barisal,Bhola,Charfession,R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,,1,Baily with Steel Deck,4.1,24.4,A
+(90.67722299999999791 22.02727700000000155),Barisal,Barisal,Bhola,Charfession,R890,Bhola (Paran Talukderhat)-Burhanuddin-Lalmohon-Char Fassion-Char Manika Road,Dakhinaisa Bazar Bridge,1,Baily with Steel Deck,3.92,24.299999,A
+(89.58494600000000219 22.97708300000000037),Khulna,Khulna,Khulna,Khulna-1,Z7040,Fulbari Railgate-Dighalia (Ngarghata)-Arua-Gazirhat-Terokhada Road,Mahisdia bridge,1,RCC Girder Bridge,4.56,6.5,C
+(89.58938600000000463 22.97316700000000012),Khulna,Khulna,Khulna,Khulna-1,Z7040,Fulbari Railgate-Dighalia (Ngarghata)-Arua-Gazirhat-Terokhada Road,Baromohisdia bridge,1,RCC Girder Bridge,4.5,6.5500002,C
+(89.59688599999999781 22.96555499999999839),Khulna,Khulna,Khulna,Khulna-1,Z7040,Fulbari Railgate-Dighalia (Ngarghata)-Arua-Gazirhat-Terokhada Road,,1,RCC Girder Bridge,4.5,12.5,C
+(89.60411100000000317 22.95747199999999921),Khulna,Khulna,Khulna,Khulna-1,Z7040,Fulbari Railgate-Dighalia (Ngarghata)-Arua-Gazirhat-Terokhada Road,,3,RCC Girder Bridge,5.25,33.049999,C
+(89.60774999999999579 22.95488900000000143),Khulna,Khulna,Khulna,Khulna-1,Z7040,Fulbari Railgate-Dighalia (Ngarghata)-Arua-Gazirhat-Terokhada Road,,3,RCC Girder Bridge,5.3,50.799999,C
+(89.61428100000000541 22.95433399999999935),Khulna,Khulna,Khulna,Khulna-1,Z7040,Fulbari Railgate-Dighalia (Ngarghata)-Arua-Gazirhat-Terokhada Road,,1,RCC Girder Bridge,4.35,6.5,A
+(89.62330599999999947 22.95361099999999865),Khulna,Khulna,Khulna,Khulna-1,Z7040,Fulbari Railgate-Dighalia (Ngarghata)-Arua-Gazirhat-Terokhada Road,,1,RCC Girder Bridge,4.55,6.6500001,C
+(89.66263600000000622 22.89233400000000174),Khulna,Khulna,Khulna,Khulna-2,Z7041,Khulna (Rupsha)-Srifaltala-Terokhada Road,,1,RCC Girder Bridge,7.67,18.75,A
+(89.6631930000000068 22.8967489999999998),Khulna,Khulna,Khulna,Khulna-2,Z7041,Khulna (Rupsha)-Srifaltala-Terokhada Road,,1,RCC Girder Bridge,7.67,21.549999,A
+(89.66688499999999351 22.93661099999999919),Khulna,Khulna,Khulna,Khulna-2,Z7041,Khulna (Rupsha)-Srifaltala-Terokhada Road,,1,RCC Girder Bridge,4.3,5.8000002,C
+(89.75527999999999906 22.96805600000000069),Khulna,Khulna,Khulna,Khulna-2,Z7045,Terakhada-Mollahat Road,,3,RCC Girder Bridge,519,38.959999,B
+(89.70944199999999569 22.97388799999999875),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7045,Terakhada-Mollahat Road,,1,RCC Bridge,4.78,12.7,C
+(89.70083599999999535 22.97694399999999959),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7045,Terakhada-Mollahat Road,,1,RCC Girder Bridge,4.75,12.7,C
+(89.68694299999999942 22.96444500000000133),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7045,Terakhada-Mollahat Road,,1,RCC Girder Bridge,4.77,12.7,C
+(89.67500300000000379 22.94944399999999973),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7045,Terakhada-Mollahat Road,,1,RCC Girder Bridge,4.7,13.35,B
+(89.66944100000000617 22.94000099999999875),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7045,Terakhada-Mollahat Road,,3,RCC Girder Bridge,4.57,61.529999,B
+(89.875 22.79833400000000054),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7054,Chitalmari-Tungipara (Patgati) Road,,1,RCC Bridge,4.86,22.940001,B
+(89.87527500000000202 22.80333299999999852),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7054,Chitalmari-Tungipara (Patgati) Road,,1,RCC Girder Bridge,4.6,5,C
+(89.86389200000000699 22.82333399999999912),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7054,Chitalmari-Tungipara (Patgati) Road,,1,RCC Girder Bridge,4.64,10.5,C
+(89.86499799999999993 22.84888799999999875),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7054,Chitalmari-Tungipara (Patgati) Road,,1,RCC Girder Bridge,4.68,9,A
+(89.86972000000000094 22.85555599999999998),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7054,Chitalmari-Tungipara (Patgati) Road,,1,RCC Girder Bridge,4.7,10.5,C
+(89.87361099999999681 22.86083400000000054),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7054,Chitalmari-Tungipara (Patgati) Road,,1,RCC Girder Bridge,4.75,12,B
+(89.04352599999999995 22.86005600000000015),Khulna,Khulna,Satkhira,Satkhira-1,Z7552,keshabpur- sharaskhati -kalarawa Road,Betraboti bridge,3,RCC Girder Bridge,4.8,33.779999,B
+(89.04464000000000112 22.69055600000000084),Khulna,Khulna,Satkhira,Satkhira-2,Z7602,Satkhira-Shakhipur-Kaliganj Road,Bakal bridge,3,RCC Girder Bridge,8.8,48.799999,B
+(88.98972299999999791 22.64313900000000146),Khulna,Khulna,Satkhira,Satkhira-2,Z7602,Satkhira-Shakhipur-Kaliganj Road,Kalia bridge,3,RCC Girder Bridge,8.4,56.799999,C
+(89.00180799999999692 22.59713899999999853),Khulna,Khulna,Satkhira,Satkhira-2,Z7602,Satkhira-Shakhipur-Kaliganj Road,Paruliar bridge,3,RCC Girder Bridge,9.2,28,B
+(89.02933500000000322 22.47172199999999975),Khulna,Khulna,Satkhira,Satkhira-2,Z7602,Satkhira-Shakhipur-Kaliganj Road,Satpur bridge,1,PC Girder Bridge,9.5,40,A
+(89.03338599999999303 22.45855500000000049),Khulna,Khulna,Satkhira,Satkhira-2,Z7602,Satkhira-Shakhipur-Kaliganj Road,K. B. Ahsanullah bridge,5,PC Girder Bridge,9.55,162.3,A
+(89.07277700000000209 22.71249999999999858),Khulna,Khulna,Satkhira,Satkhira-1,Z7603,Satkhira-Asasuni-Goaldanga-Paikgachha Road,Paka bridge,1,PC Girder Bridge,10.3,25.200001,A
+(89.17305799999999749 22.55083300000000079),Khulna,Khulna,Satkhira,Satkhira-1,Z7603,Satkhira-Asasuni-Goaldanga-Paikgachha Road,Chapra-Asasuni bridge,5,Truss with Steel Deck,4.25,240.87,C
+(89.17722299999999791 22.3441660000000013),Khulna,Khulna,Satkhira,Satkhira-2,Z7610,Koyra-Noabaki-Shamnagar Road,Kachari bridge,1,RCC Girder Bridge,4.35,12.9,C
+(89.1338879999999989 22.33527799999999885),Khulna,Khulna,Satkhira,Satkhira-2,Z7610,Koyra-Noabaki-Shamnagar Road,Chunar bridge,1,RCC Girder Bridge,4.4,13,C
+(89.20555899999999383 22.75111199999999911),Khulna,Khulna,Satkhira,Satkhira-1,Z7613,Tala-Islamkati-Sujanshaha-Satkhira (Patkelghata) Road,Islamkati bridge,1,RCC Girder Bridge,3.9,12.65,C
+(89.47563900000000103 22.60866700000000051),Khulna,Khulna,Khulna,Khulna-1,Z7615,Dacope-Barobaria-Magurkhali-Tala Road,Khatali bridge,1,RCC Girder Bridge,4.3,13,C
+(89.09222400000000164 22.25222199999999972),Khulna,Khulna,Satkhira,Satkhira-2,Z7617,Kaliganj-Shyamnagar-Vetkhali Road,Manik khali bridge,1,Truss with Steel Deck,3.95,19,C
+(89.78444700000000012 22.40277899999999889),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7701,Morelganj (CARE Bazar) -Mongla Road,Gulishakhali bridge,1,RCC Girder Bridge,4.3,10.5,C
+(89.78194399999999575 22.40277899999999889),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7701,Morelganj (CARE Bazar) -Mongla Road,,1,RCC Girder Bridge,4.7,7,B
+(89.69194799999999645 22.45499999999999829),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7701,Morelganj (CARE Bazar) -Mongla Road,Gazir bridge,1,RCC Girder Bridge,4.5,7.5,C
+(89.68194599999999639 22.46361200000000125),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7701,Morelganj (CARE Bazar) -Mongla Road,,1,RCC Girder Bridge,4.3,20.5,B
+(89.65805799999999692 22.46944399999999931),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7701,Morelganj (CARE Bazar) -Mongla Road,,1,RCC Girder Bridge,4.3,17.85,A
+(89.64250199999999325 22.47194500000000161),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7701,Morelganj (CARE Bazar) -Mongla Road,Putisnan bridge,1,RCC Girder Bridge,4.3,13,C
+(89.62750200000000689 22.47583399999999898),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7701,Morelganj (CARE Bazar) -Mongla Road,,1,RCC Girder Bridge,4.2,6.4000001,B
+(89.84889200000000642 22.59166700000000105),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,Kathaltola Bridge,1,PC Girder Bridge,10.25,31.299999,C
+(89.84889200000000642 22.5913889999999995),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,Baraitola 3rd Bridge,2,RCC Girder Bridge,8.15,30,A
+(89.85221900000000517 22.45472099999999926),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,Barikhali Steel Bridge,1,Truss with Steel Deck,4.44,49.5,A
+(89.81388900000000319 22.39222099999999926),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,,1,RCC Girder Bridge,10.27,21.85,A
+(89.81083700000000647 22.33416700000000077),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,,1,PC Girder Bridge,10.3,29.700001,A
+(89.83611299999999744 22.32999999999999829),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,,1,Truss with Steel Deck,4.46,46.450001,C
+(89.84860999999999365 22.31638900000000092),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,Rayandha,3,PC Girder Bridge,9.55,94.050003,A
+(89.82971999999999468 22.26444400000000101),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,Tafalbari Bridge,5,RCC Girder Bridge,4.93,80.449997,A
+(89.8283310000000057 22.25555599999999856),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7702,Signboard-Morelganj-Sharankhola-Rainda-Bogi Road,South Taffalbari bridge,3,RCC Girder Bridge,5.1,36.139999,A
+(89.87889099999999587 22.64361200000000096),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7703,Bagerhat (Signboard)-Kachua Road,,1,Truss with Steel Deck,9.32,31.4,C
+(89.8866649999999936 22.6538889999999995),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7703,Bagerhat (Signboard)-Kachua Road,,1,Baily with Steel Deck,4.13,6.3000002,C
+(89.9800029999999964 22.57944499999999977),Barisal,Barisal,Pirojpur,Pirojpur,Z7704,Pirojpur-Nazirpur-Matibhanga-Patgati-Gonapara Road,C.O   Office more Bridge,3,RCC Girder Bridge,5.24,22.85,C
+(89.96166999999999803 22.69222299999999848),Barisal,Barisal,Pirojpur,Pirojpur,Z7704,Pirojpur-Nazirpur-Matibhanga-Patgati-Gonapara Road,Adhajhuri Bridge,1,Baily with Steel Deck,4.13,33.580002,C
+(89.96722400000000164 22.70694400000000002),Barisal,Barisal,Pirojpur,Pirojpur,Z7704,Pirojpur-Nazirpur-Matibhanga-Patgati-Gonapara Road,Nazirpur Bridge,3,RCC Girder Bridge,9.5,109.6,A
+(89.95555899999999383 22.76083399999999912),Barisal,Barisal,Pirojpur,Pirojpur,Z7704,Pirojpur-Nazirpur-Matibhanga-Patgati-Gonapara Road,Chaltobari Bridge,3,Baily with Steel Deck,4.11,68.870003,C
+(89.95417000000000485 22.78860999999999848),Barisal,Barisal,Pirojpur,Pirojpur,Z7704,Pirojpur-Nazirpur-Matibhanga-Patgati-Gonapara Road,Dakatia Bridge,1,Truss with Steel Deck,3.72,10.35,A
+(89.94944800000000384 22.80472200000000171),Barisal,Barisal,Pirojpur,Pirojpur,Z7704,Pirojpur-Nazirpur-Matibhanga-Patgati-Gonapara Road,Baghajora steel Bridge,1,Truss with Steel Deck,4.25,31.200001,A
+(89.93888900000000319 22.8441660000000013),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7704,Pirojpur-Nazirpur-Matibhanga-Patgati-Gonapara Road,Souladhoho Bazar steel Bridge,1,RCC Girder Bridge,7.6,20.57,C
+(89.80178100000000541 22.70350099999999927),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7708,Bagerhat-Chitolmari Road,,1,RCC Girder Bridge,7.55,21.6,A
+(89.84483299999999417 22.71386100000000141),Khulna,Khulna,Bagerhat,Bagerhat-1,Z7708,Bagerhat-Chitolmari Road,,2,Truss with Steel Deck,3.94,62.5,C
+(89.99888599999999883 22.58472300000000033),Barisal,Barisal,Pirojpur,Pirojpur,Z7709,Priojpur Kheya Ghat-Hularhat Road,Muktar kashi bridge,1,Truss with RCC Slab,8.33,15.3,C
+(90.00472299999999848 22.58833299999999866),Barisal,Barisal,Pirojpur,Pirojpur,Z7709,Priojpur Kheya Ghat-Hularhat Road,Ranipur Bridge,1,Truss with RCC Slab,8.32,15.24,A
+(89.95527599999999779 22.4797229999999999),Barisal,Barisal,Pirojpur,Pirojpur,Z7711,Togra-Zianagar-Balipara-Kalaron-Synashi Road,College Bridge,1,PC Girder Bridge,10.3,31.27,A
+(89.94222299999999848 22.45055599999999885),Barisal,Barisal,Pirojpur,Pirojpur,Z7711,Togra-Zianagar-Balipara-Kalaron-Synashi Road,Fakirhat Steel Bridge,1,Baily with Steel Deck,4.05,24.52,C
+(89.93389100000000269 22.42944500000000119),Barisal,Barisal,Pirojpur,Pirojpur,Z7711,Togra-Zianagar-Balipara-Kalaron-Synashi Road,Balipara Bazar Bridge,1,Truss with Steel Deck,3.74,29.870001,B
+(89.9800029999999964 22.57944499999999977),Barisal,Barisal,Pirojpur,Pirojpur,Z7715,Pirojpur-Nazirpur By-Pass Road,C.O office more Bridge,3,RCC Girder Bridge,5.24,22.85,C
+(89.76444200000000251 22.6233329999999988),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7717,Bagerhat-Rampal -Mongla Road,,3,PC Girder Bridge,5.5,102.1,B
+(89.75944499999999948 22.60138900000000106),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7717,Bagerhat-Rampal -Mongla Road,,3,RCC Girder Bridge,4.87,42.040001,B
+(89.73083499999999901 22.5977780000000017),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7717,Bagerhat-Rampal -Mongla Road,Hajir Bridge,3,RCC Girder Bridge,5.8,42.119999,C
+(89.71416499999999417 22.5933339999999987),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7717,Bagerhat-Rampal -Mongla Road,Bishna Bridge,5,PC Girder Bridge,5.15,156.22,A
+(89.66110999999999365 22.57611100000000093),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7717,Bagerhat-Rampal -Mongla Road,Daudkhali Bridge,7,PC Girder Bridge,5.12,240.11,C
+(89.65166499999999417 22.51611099999999865),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7717,Bagerhat-Rampal -Mongla Road,Boro Bridge,3,RCC Girder Bridge,4.89,36.040001,A
+(89.64111300000000426 22.48749899999999968),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7717,Bagerhat-Rampal -Mongla Road,Chandpai bridge,3,PC Girder Bridge,4.77,60.040001,B
+(89.6133350000000064 22.48194499999999962),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7717,Bagerhat-Rampal -Mongla Road,Kumarkhali bridge,3,RCC Girder Bridge,4.95,36.130001,A
+(89.83694500000000005 22.57166700000000148),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7718,Kachua (Pingoria)-Talighati-Herma-Rampal Road,,1,RCC Girder Bridge,6.5,9.8599997,C
+(89.83694500000000005 22.5713879999999989),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7718,Kachua (Pingoria)-Talighati-Herma-Rampal Road,,1,Baily with Steel Deck,4,21.5,C
+(89.64221999999999468 22.48611100000000107),Khulna,Khulna,Bagerhat,Bagerhat-2,Z7718,Kachua (Pingoria)-Talighati-Herma-Rampal Road,Mithakali bridge,1,RCC Girder Bridge,4.8,19.9,C
+(90.18080899999999644 22.96349899999999877),Barisal,Barisal,Barisal,Barisal-1,Z8031,Gouranadi-Paisarhat-Kotalipara-Gopalganj Road,Kalupara bridge,1,PC Girder Bridge,8.3,30.9,A
+(90.17355299999999829 22.96513900000000064),Barisal,Barisal,Barisal,Barisal-1,Z8031,Gouranadi-Paisarhat-Kotalipara-Gopalganj Road,Shimul bhangar bridge,1,RCC Girder Bridge,8.25,20.799999,C
+(90.16727400000000614 22.95097200000000015),Barisal,Barisal,Barisal,Barisal-1,Z8031,Gouranadi-Paisarhat-Kotalipara-Gopalganj Road,Phulchari bridge,1,RCC Girder Bridge,8.3,20.799999,B
+(90.16146899999999675 22.9685549999999985),Barisal,Barisal,Barisal,Barisal-1,Z8031,Gouranadi-Paisarhat-Kotalipara-Gopalganj Road,Homardar bridge,1,Baily with Steel Deck,4.15,21.6,A
+(90.15541799999999739 22.9682220000000008),Barisal,Barisal,Barisal,Barisal-1,Z8031,Gouranadi-Paisarhat-Kotalipara-Gopalganj Road,,1,Baily with Steel Deck,3.9,25.200001,A
+(90.15186300000000585 22.96327799999999897),Barisal,Barisal,Barisal,Barisal-1,Z8031,Gouranadi-Paisarhat-Kotalipara-Gopalganj Road,,3,Steel Beam & RCC Slab,3.9,20.799999,C
+(90.1404189999999943 22.96269399999999905),Barisal,Barisal,Barisal,Barisal-1,Z8031,Gouranadi-Paisarhat-Kotalipara-Gopalganj Road,Chobikhar bridge,1,Baily with Steel Deck,3.98,18.25,C
+(90.27569599999999639 22.76199899999999943),Barisal,Barisal,Barisal,Barisal-1,Z8033,Gariarpar-Banaripara-Sawrupkati-Kawkhali-Naikati Road,Kheyaghat bridge,1,Baily with Steel Deck,4.15,36.5,A
+(90.27024799999999516 22.76713900000000024),Barisal,Barisal,Barisal,Barisal-1,Z8033,Gariarpar-Banaripara-Sawrupkati-Kawkhali-Naikati Road,Badla bridge,1,RCC Girder Bridge,6.2,6,C
+(90.25436399999999537 22.78094499999999911),Barisal,Barisal,Barisal,Barisal-1,Z8033,Gariarpar-Banaripara-Sawrupkati-Kawkhali-Naikati Road,Kalijira bridge,3,Baily with Steel Deck,5,104.2,C
+(90.16808299999999576 22.77805499999999839),Barisal,Barisal,Barisal,Barisal-1,Z8033,Gariarpar-Banaripara-Sawrupkati-Kawkhali-Naikati Road,Raiyer hat bridge,5,RCC Girder Bridge,4.25,41.73,D
+(90.15499900000000366 22.77411100000000133),Barisal,Barisal,Barisal,Barisal-1,Z8033,Gariarpar-Banaripara-Sawrupkati-Kawkhali-Naikati Road,Masrong bridge,1,Truss with Steel Deck,3.85,30.65,C
+(90.31333200000000261 22.81833299999999909),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,Babuganj bridge,1,Baily with Steel Deck,5,36.700001,A
+(90.37638900000000319 22.83749999999999858),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,Padarhat bridge,1,Baily with Steel Deck,4.85,33.43,C
+(90.37194800000000328 22.84166700000000105),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,Renditola bridge,1,Truss with RCC Slab,3.64,20,B
+(90.37805199999999672 22.85361100000000079),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,Hawlader bridge,1,Truss with Steel Deck,4.2,30.42,A
+(90.37833399999999529 22.85861200000000082),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,Boroiya bridge,1,RCC Girder Bridge,4.85,11.4,C
+(90.3819430000000068 22.86555500000000052),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,Ragoyar bridge,1,Truss with Steel Deck,4.22,30.440001,A
+(90.38500200000000007 22.87222300000000175),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,,1,Baily with Steel Deck,4.1,24.299999,C
+(90.38694800000000384 22.87388800000000089),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,Dorichal bridge,1,Baily with Steel Deck,4.08,18.23,A
+(90.38888500000000192 22.89166600000000074),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,,1,RCC Girder Bridge,4.85,10.9,C
+(90.39555400000000418 22.90305499999999839),Barisal,Barisal,Barisal,Barisal-1,Z8034,Rahamatpur-Babuganj-Muladi-Hizla Road,,1,Truss with Steel Deck,4.2,30.4,A
+(90.27666499999999417 22.71569399999999916),Barisal,Barisal,Barisal,Barisal-2,Z8037,Barisal-Karapur-Nabagram-Swarupkathi Road,Karapur bridge,1,RCC Girder Bridge,4.2,5.4000001,C
+(90.27405500000000416 22.7163889999999995),Barisal,Barisal,Barisal,Barisal-2,Z8037,Barisal-Karapur-Nabagram-Swarupkathi Road,Konapur bridge,3,Baily with Steel Deck,4.1,63,A
+(90.41361200000000053 22.66138799999999875),Barisal,Barisal,Barisal,Barisal-2,Z8044,Barisal (Dinerpool)-Laxmipasha-Dumki Road,Talukdarhat Bailey Bridge,1,Baily with Steel Deck,4.1,30.75,C
+(90.41944100000000617 22.63444499999999948),Barisal,Barisal,Barisal,Barisal-2,Z8044,Barisal (Dinerpool)-Laxmipasha-Dumki Road,Miabari Bailey Bridge,1,Baily with Steel Deck,4.12,21.6,C
+(90.41194199999999626 22.6163880000000006),Barisal,Barisal,Barisal,Barisal-2,Z8044,Barisal (Dinerpool)-Laxmipasha-Dumki Road,,1,Truss with Steel Deck,3.92,25.17,C
+(90.40888999999999953 22.60972200000000143),Barisal,Barisal,Barisal,Barisal-2,Z8044,Barisal (Dinerpool)-Laxmipasha-Dumki Road,Makimabad Bailey Bridge,1,Baily with Steel Deck,4.1,24.65,C
+(90.36389200000000699 22.48250000000000171),Barisal,Patuakhali,Patuakhali,Patuakhali-1,Z8044,Barisal (Dinerpool)-Laxmipasha-Dumki Road,Angoria Bondor Bridge,1,Truss with Steel Deck,3.9,31.25,C
+(90.19249700000000303 22.80666700000000091),Barisal,Barisal,Barisal,Barisal-1,Z8048,Chaker-Banaripara Road,,3,Steel Beam & RCC Slab,4.2,13.5,D
+(90.1855549999999937 22.80499999999999972),Barisal,Barisal,Barisal,Barisal-1,Z8048,Chaker-Banaripara Road,Sakhari bridge,3,Steel Beam & RCC Slab,3.3,11.4,B
+(90.1847230000000053 22.80166600000000088),Barisal,Barisal,Barisal,Barisal-1,Z8048,Chaker-Banaripara Road,Shakharia bridge,3,Steel Beam & RCC Slab,3.3,11.4,A
+(90.1847230000000053 22.80166600000000088),Barisal,Barisal,Barisal,Barisal-1,Z8048,Chaker-Banaripara Road,,3,Steel Beam & RCC Slab,3.1,11.5,A
+(90.18083199999999522 22.78888900000000106),Barisal,Barisal,Barisal,Barisal-1,Z8048,Chaker-Banaripara Road,Soliabakpur bridge,3,Steel Beam & RCC Slab,3.1,14.7,B
+(90.18916299999999353 22.39722300000000033),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8052,Kachua-Betagi-Mirjaganj-Patuakhali-Lohalia-Nijbot Kajol-Kalaiya Road,Amragasi Bridge,3,RCC Girder Bridge,7.5,36.650002,A
+(90.22027599999999836 22.36916700000000091),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8052,Kachua-Betagi-Mirjaganj-Patuakhali-Lohalia-Nijbot Kajol-Kalaiya Road,Yearuddin Khalifa Bridge,5,PC Girder Bridge,7.55,140.10001,B
+(90.22972099999999784 22.36444499999999991),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8052,Kachua-Betagi-Mirjaganj-Patuakhali-Lohalia-Nijbot Kajol-Kalaiya Road,Kapalvara Steel Bridge,1,Truss with Steel Deck,3.94,31.299999,C
+(90.23583200000000204 22.36138899999999907),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8052,Kachua-Betagi-Mirjaganj-Patuakhali-Lohalia-Nijbot Kajol-Kalaiya Road,Gabtala Steel Bridge,1,Truss with Steel Deck,3.9,22.1,C
+(90.2713849999999951 22.35611199999999954),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8052,Kachua-Betagi-Mirjaganj-Patuakhali-Lohalia-Nijbot Kajol-Kalaiya Road,Paira Steel Bridge,1,Truss with Steel Deck,3.91,15.95,C
+(90.29222099999999784 22.36055599999999899),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8052,Kachua-Betagi-Mirjaganj-Patuakhali-Lohalia-Nijbot Kajol-Kalaiya Road,Number Two Bridge,1,Truss with Steel Deck,3.95,25.15,C
+(90.3063889999999958 22.36055599999999899),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8052,Kachua-Betagi-Mirjaganj-Patuakhali-Lohalia-Nijbot Kajol-Kalaiya Road,Number One Bridge,1,Truss with Steel Deck,3.9,27,C
+(90.38810700000000509 22.35638799999999904),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8052,Binapani-Kachua-Betagi-Mirjaganj-Patuakhali Road,Soular Bridge,3,RCC Girder Bridge,6.85,60.18,A
+(90.60972599999999488 22.38055599999999856),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8053,Bauphal (Kalaiya)-Bogi-Bhola (Debirchar) Road,Soular Bridge,1,Baily with Steel Deck,3.76,24.4,C
+(90.32611099999999738 22.64219500000000096),Barisal,Barisal,Jhalokati,Jhalokati,Z8056,Dapdapia-Nalcity-Mollaherhat (Moheshpur) Road (Z.A Bhutto Road),,1,Truss with Steel Deck,4.26,30.469999,B
+(90.16972400000000221 22.52138899999999921),Barisal,Barisal,Jhalokati,Jhalokati,Z8062,Pir Moazzem Hossain (Baisakia)- Rajapur (Mirerhat) Road,,5,RCC Girder Bridge,5.1,100.1,A
+(90.16416900000000112 22.52083400000000069),Barisal,Barisal,Jhalokati,Jhalokati,Z8062,Pir Moazzem Hossain (Baisakia)- Rajapur (Mirerhat) Road,,3,Steel Beam & RCC Slab,3,22.6,C
+(90.14888799999999947 22.51749999999999829),Barisal,Barisal,Jhalokati,Jhalokati,Z8062,Pir Moazzem Hossain (Baisakia)- Rajapur (Mirerhat) Road,,3,RCC Girder Bridge,5,39.049999,A
+(89.99527700000000152 22.48583400000000054),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Charkhali-Hetalia Bridge,1,Truss with Steel Deck,5.91,52.169998,A
+(89.9930569999999932 22.46388800000000074),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Darul Huda Bridge,1,Baily with Steel Deck,4.13,39.849998,C
+(89.99222600000000227 22.45555500000000038),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Bottala Bridge,1,Truss with Steel Deck,3.92,21.700001,C
+(89.99055500000000052 22.44972200000000129),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Board School Bridge,1,Baily with Steel Deck,4.12,21.57,C
+(89.99055500000000052 22.4463879999999989),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Botla Bridge,1,Truss with Steel Deck,4.12,27.67,C
+(89.99138600000000565 22.43499900000000125),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Mothersi Bridge,1,Truss with Steel Deck,5.92,61.400002,C
+(89.98972299999999791 22.4261109999999988),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Nut Bridge,1,Truss with Steel Deck,4.48,9.8500004,C
+(89.98750300000000379 22.41444399999999959),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Ekori Bus Stand Bridge,1,Baily with Steel Deck,4.1,24.6,C
+(89.98777800000000582 22.39249999999999829),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Jhowtala Bridge,1,Truss with Steel Deck,4.2,24.4,C
+(89.98527500000000146 22.38166599999999917),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Lalpul Bridge,1,Baily with Steel Deck,4.03,18.24,C
+(89.98111000000000104 22.37638899999999964),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Bashbunia Steel Bridge,1,Baily with Steel Deck,4.05,18.299999,C
+(89.97138999999999953 22.37111099999999908),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Dabipur Steel Bridge,1,Truss with Steel Deck,3.95,42.73,C
+(89.9649959999999993 22.36749999999999972),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Shapa Bridge,1,Truss with Steel Deck,3.97,42.73,C
+(89.93583700000000647 22.36055599999999899),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Tushkhali Steel Bridge,1,Truss with Steel Deck,5.92,52.130001,C
+(89.93416600000000471 22.33611099999999894),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Gutherghata Bridge,1,Truss with Steel Deck,4.25,36.93,C
+(89.94277999999999906 22.31638900000000092),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Majer Bridge,1,Truss with Steel Deck,3.95,42.75,B
+(89.9533310000000057 22.29527900000000074),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Bayratata Bridge,1,Truss with Steel Deck,3.92,22.1,C
+(89.9588849999999951 22.28860999999999848),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Sadar Road High School Bridge,1,Truss with Steel Deck,3.97,30.51,C
+(89.95972399999999425 22.2816660000000013),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Kalbari Bridge,1,Baily with Steel Deck,4.03,30.5,C
+(89.9649959999999993 22.27555500000000066),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Purbo Sanar Tiki Kata Steel Bridge,1,Truss with Steel Deck,4.22,36.599998,C
+(89.96722400000000164 22.27222300000000033),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Dofadarbari Steel Bridge,1,Truss with Steel Deck,4.25,37.299999,B
+(89.96971899999999778 22.22444499999999934),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,South Gulishakhali Steel Bridge,1,Truss with Steel Deck,4.25,18.65,C
+(89.9663929999999965 22.21027799999999885),Barisal,Barisal,Pirojpur,Kawkhali,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,C & B Bridge,1,Truss with Steel Deck,4.25,24.75,C
+(89.96250200000000063 22.1627769999999984),Barisal,Patuakhali,Barguna,Barguna,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Bashtolar Bridge,1,Truss with Steel Deck,3.96,24.4,B
+(89.9491649999999936 22.09083400000000097),Barisal,Patuakhali,Barguna,Barguna,Z8701,Charkhali-Tushkhali-Mathbaria-Patharghata Road,Munshiganj Steel Bridge,1,Truss with Steel Deck,4.22,36.700001,C
+(90.12416799999999739 22.57472200000000129),Barisal,Barisal,Jhalokati,Jhalokati,Z8702,Rajapur-Naikati-Bekutia-Pirojpur Road,,1,Truss with Steel Deck,3.9,25.1,C
+(90.09166700000000105 22.58222200000000157),Barisal,Barisal,Pirojpur,Kawkhali,Z8702,Rajapur-Naikati-Bekutia-Pirojpur Road,,1,Baily with Steel Deck,4.1,18.5,C
+(90.07499699999999621 22.58194400000000002),Barisal,Barisal,Pirojpur,Kawkhali,Z8702,Rajapur-Naikati-Bekutia-Pirojpur Road,,1,Truss with Steel Deck,4.2,36.599998,C
+(90.05694599999999639 22.57777799999999857),Barisal,Barisal,Pirojpur,Kawkhali,Z8702,Rajapur-Naikati-Bekutia-Pirojpur Road,,1,Truss with Steel Deck,3.96,25.1,C
+(90.05277999999999849 22.57527699999999982),Barisal,Barisal,Pirojpur,Kawkhali,Z8702,Rajapur-Naikati-Bekutia-Pirojpur Road,Kazibari Bridge,1,Truss with Steel Deck,3.93,25.1,C
+(90.05249799999999993 22.57527699999999982),Barisal,Barisal,Pirojpur,Kawkhali,Z8702,Rajapur-Naikati-Bekutia-Pirojpur Road,Bishwas barir Bridge,1,Truss with Steel Deck,4.24,18.299999,A
+(90.11555500000000052 22.6233329999999988),Barisal,Barisal,Jhalokati,Jhalokati,Z8703,Jhalokati (Dhanshiri)-Kawkhali Road,,1,Baily with Steel Deck,4.12,24.35,A
+(90.1036150000000049 22.62416599999999889),Barisal,Barisal,Jhalokati,Jhalokati,Z8703,Jhalokati (Dhanshiri)-Kawkhali Road,,5,Steel Beam & RCC Slab,3.95,30.620001,B
+(90.09417000000000542 22.62194399999999916),Barisal,Barisal,Pirojpur,Kawkhali,Z8703,Jhalokati (Dhanshiri)-Kawkhali Road,Kayuudia Bridge,1,RCC Girder Bridge,4.27,10.34,C
+(90.20055399999999679 22.689388000000001),Barisal,Barisal,Jhalokati,Jhalokati,Z8704,Jhalokati-Nabagram-Gava-Ekshirapara Road,,1,RCC Girder Bridge,4.5,21,C
+(90.2043910000000011 22.69622199999999879),Barisal,Barisal,Jhalokati,Jhalokati,Z8704,Jhalokati-Nabagram-Gava-Ekshirapara Road,,1,RCC Girder Bridge,4.2,6.8000002,D
+(90.20480299999999829 22.70472099999999926),Barisal,Barisal,Jhalokati,Jhalokati,Z8704,Jhalokati-Nabagram-Gava-Ekshirapara Road,,1,RCC Girder Bridge,4.8,11.8,A
+(90.20830499999999574 22.71258399999999966),Barisal,Barisal,Jhalokati,Jhalokati,Z8704,Jhalokati-Nabagram-Gava-Ekshirapara Road,,1,RCC Girder Bridge,3.7,10.4,D
+(90.21194500000000005 22.72586099999999831),Barisal,Barisal,Jhalokati,Jhalokati,Z8704,Jhalokati-Nabagram-Gava-Ekshirapara Road,,1,RCC Girder Bridge,4.2,12.15,C
+(90.20894599999999741 22.72813800000000128),Barisal,Barisal,Jhalokati,Jhalokati,Z8704,Jhalokati-Nabagram-Gava-Ekshirapara Road,,3,RCC Girder Bridge,7.5,62.77,B
+(90.20766399999999408 22.73338899999999896),Barisal,Barisal,Jhalokati,Jhalokati,Z8704,Jhalokati-Nabagram-Gava-Ekshirapara Road,Brick Field Bridge,1,RCC Girder Bridge,10.3,14.9,A
+(90.18900299999999959 22.76591700000000174),Barisal,Barisal,Jhalokati,Jhalokati,Z8704,Jhalokati-Nabagram-Gava-Ekshirapara Road,,1,Truss with Steel Deck,4.1,37.200001,A
+(90.06833600000000217 22.48250000000000171),Barisal,Barisal,Pirojpur,Kawkhali,Z8705,Bhandaria-Paikhkhali-Kathalia Road,Bhubaneswar Bridge,3,RCC Girder Bridge,7.6,47.93,B
+(90.11360899999999674 22.44055600000000084),Barisal,Barisal,Jhalokati,Jhalokati,Z8705,Bhandaria-Paikhkhali-Kathalia Road,,1,Truss with Steel Deck,3.95,42.669998,B
+(90.11499799999999993 22.4358329999999988),Barisal,Barisal,Jhalokati,Jhalokati,Z8705,Bhandaria-Paikhkhali-Kathalia Road,,1,RCC Girder Bridge,6.62,10.3,C
+(90.11555500000000052 22.42666600000000088),Barisal,Barisal,Jhalokati,Jhalokati,Z8705,Bhandaria-Paikhkhali-Kathalia Road,,1,Truss with Steel Deck,3.95,24.379999,A
+(90.11833199999999522 22.4172229999999999),Barisal,Barisal,Jhalokati,Jhalokati,Z8705,Bhandaria-Paikhkhali-Kathalia Road,,1,Truss with Steel Deck,4,21.4,B
+(90.14472200000000157 22.55194499999999991),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,1,Truss with Steel Deck,4,26.6,C
+(90.14861299999999744 22.52805499999999839),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,1,Truss with Steel Deck,4.23,30.559999,A
+(90.14749899999999627 22.52083400000000069),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,1,Baily with Steel Deck,4.1,21.200001,A
+(90.13916799999999796 22.50611100000000064),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,1,Baily with Steel Deck,4.1,24.469999,B
+(90.13972499999999854 22.50305600000000084),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,1,Truss with Steel Deck,4.23,31.15,C
+(90.15805799999999692 22.4911120000000011),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,1,Baily with Steel Deck,5.05,15.75,B
+(90.15582999999999458 22.48111199999999954),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,7,Steel Beam & RCC Slab,3.65,50.849998,C
+(90.15222199999999475 22.46333299999999866),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,4,Steel Beam & RCC Slab,4,21.200001,C
+(90.14861299999999744 22.44805500000000009),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,3,Truss with Steel Deck,3.95,81.220001,B
+(90.14444699999999955 22.43722199999999845),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,4,Steel Beam & RCC Slab,4,25.23,B
+(90.14250199999999325 22.43277700000000152),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,4,Steel Beam & RCC Slab,3.67,21.09,C
+(90.14167000000000485 22.42666600000000088),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,7,Steel Beam & RCC Slab,3.65,52.66,C
+(90.14138800000000629 22.42000000000000171),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,2,Baily with Steel Deck,4.03,27.379999,A
+(90.13527700000000209 22.4127769999999984),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,1,Baily with Steel Deck,5,30.450001,C
+(90.12166600000000471 22.40083299999999866),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,2,Truss with Steel Deck,3.95,73.5,C
+(90.09083599999999592 22.38166599999999917),Barisal,Barisal,Jhalokati,Jhalokati,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,,3,Truss with Steel Deck,4.1,86.25,A
+(90.00305199999999672 22.12527800000000155),Barisal,Patuakhali,Barguna,Barguna,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,Kamarhat Steel Bridge,1,Truss with Steel Deck,4.25,31.809999,B
+(89.97611200000000053 22.04944400000000115),Barisal,Patuakhali,Barguna,Barguna,Z8708,Rajapur-Kathalia-Amua-Bamna-Patharghata Road,Patharghata Steel Bridge,3,Truss with Steel Deck,4.12,68.93,C
+(90.0596919999999983 22.48188999999999993),Barisal,Barisal,Pirojpur,Kawkhali,Z8711,Bhandaria-Banaihat Road,Bhubenaswar bridge,1,Baily with Steel Deck,9.8,36.060001,C
+(90.06080599999999947 22.46652800000000028),Barisal,Barisal,Pirojpur,Kawkhali,Z8711,Bhandaria-Banaihat Road,Kazibari Mosque Bridge,1,Steel Beam & RCC Slab,4.25,6.9499998,B
+(90.05222299999999791 22.45977800000000002),Barisal,Barisal,Pirojpur,Kawkhali,Z8711,Bhandaria-Banaihat Road,Katakhali Bridge,2,Baily with Steel Deck,3.95,73.800003,C
+(90.0420299999999969 22.44294400000000067),Barisal,Barisal,Pirojpur,Kawkhali,Z8711,Bhandaria-Banaihat Road,Cherhe Bridge,7,Steel Beam & RCC Slab,3.05,43.950001,C
+(90.05944800000000328 22.62194399999999916),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Chirapara bridge,3,Truss with Steel Deck,3.96,123.32,A
+(90.05750299999999697 22.60055499999999995),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Farazi bari bridge,3,Steel Beam & RCC Slab,3.07,15.64,B
+(90.05777700000000152 22.59972199999999987),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Farazibari Bridge,3,Steel Beam & RCC Slab,3.3,14.88,B
+(90.05805200000000355 22.59583299999999895),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Shamsu member bari bridge,3,Steel Beam & RCC Slab,3.26,15,C
+(90.0555569999999932 22.58055500000000038),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Nana Hujurer Bridge,3,Steel Beam & RCC Slab,3.65,12,C
+(90.05388600000000565 22.57805600000000013),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,East jeepga shatvria bridge,3,Steel Beam & RCC Slab,3.45,12.11,C
+(90.0563889999999958 22.56583399999999884),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Bandaghata Bridge,3,Steel Beam & RCC Slab,3.72,15.18,B
+(90.05583199999999522 22.55999900000000125),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Beltala Bridge,5,Steel Beam & RCC Slab,3.67,33.389999,C
+(90.05916600000000471 22.54944400000000115),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Talukder hat bridge,3,Steel Beam & RCC Slab,3.8,15.21,B
+(90.05916600000000471 22.54861100000000107),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Hawlader Hat Bridge.,5,Steel Beam & RCC Slab,3.7,33.450001,C
+(90.05750299999999697 22.53555499999999867),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Mokker Bari Bridge,1,Baily with Steel Deck,4.12,24.5,C
+(90.06028000000000588 22.50194400000000172),Barisal,Barisal,Pirojpur,Kawkhali,Z8713,Kawkhali-Chirapara-Bhitabaria-Bhandaria Road,Rumi Monjil Bridge,1,RCC Girder Bridge,4.2,9.8999996,C
+(90.18402899999999534 22.65838799999999864),Barisal,Barisal,Jhalokati,Jhalokati,Z8716,Jhalokati-Kirtipasha-Swarupkati Road,,1,RCC Girder Bridge,4.1,6.75,B
+(90.17788699999999835 22.66861199999999954),Barisal,Barisal,Jhalokati,Jhalokati,Z8716,Jhalokati-Kirtipasha-Swarupkati Road,,1,RCC Girder Bridge,4.1,6.5500002,B
+(90.17307999999999879 22.67891699999999844),Barisal,Barisal,Jhalokati,Jhalokati,Z8716,Jhalokati-Kirtipasha-Swarupkati Road,,1,RCC Girder Bridge,4.75,11.5,B
+(90.08836399999999855 22.56625000000000014),Barisal,Barisal,Jhalokati,Jhalokati,Z8717,Naikati-Bhandaria Road,Lebuburia Bazar steel Bridge,1,Baily with Steel Deck,4.1,21.5,C
+(90.08044399999999996 22.53808400000000134),Barisal,Barisal,Jhalokati,Jhalokati,Z8717,Naikati-Bhandaria Road,Amtala Bazar Bridge,1,Truss with Steel Deck,3.91,25.16,C
+(90.08027599999999779 22.53247299999999953),Barisal,Barisal,Jhalokati,Jhalokati,Z8717,Naikati-Bhandaria Road,Bairagir Bridge,1,Baily with Steel Deck,4.12,12.4,A
+(90.08102399999999932 22.52886200000000017),Barisal,Barisal,Jhalokati,Jhalokati,Z8717,Naikati-Bhandaria Road,Doctor bari Bridge,1,Baily with Steel Deck,4.13,18.5,C
+(90.08030700000000479 22.52427899999999994),Barisal,Barisal,Jhalokati,Jhalokati,Z8717,Naikati-Bhandaria Road,Bagbari Bridge,1,Truss with Steel Deck,3.9,21.1,C
+(90.07589000000000112 22.51488900000000015),Barisal,Barisal,Jhalokati,Jhalokati,Z8717,Naikati-Bhandaria Road,Tagorbari Bridge,1,Truss with Steel Deck,3.91,22.1,C
+(90.13749699999999621 22.31888999999999967),Barisal,Barisal,Barisal,Barisal-1,Z8803,Barguna (Chandukhali)-Betagi-Bakerganj(Padri Shibpur) Road,Kaonia bridge,3,PC Girder Bridge,7.52,86.82,A
+(90.16249799999999937 22.40111200000000125),Barisal,Patuakhali,Barguna,Barguna,Z8803,Barguna (Chandukhali)-Betagi-Bakerganj(Padri Shibpur) Road,Betagi bridge,1,Truss with Steel Deck,3.95,36.630001,B
+(90.18277700000000152 22.43027700000000024),Barisal,Patuakhali,Barguna,Barguna,Z8803,Barguna (Chandukhali)-Betagi-Bakerganj(Padri Shibpur) Road,Zopkhali bridge,5,RCC Girder Bridge,7.52,95.300003,C
+(90.18638599999999883 22.44472299999999976),Barisal,Patuakhali,Barguna,Barguna,Z8803,Barguna (Chandukhali)-Betagi-Bakerganj(Padri Shibpur) Road,Puttakhalu bridge,3,RCC Girder Bridge,7.32,36.119999,A
+(90.1963879999999989 22.48111199999999954),Barisal,Patuakhali,Barguna,Barguna,Z8803,Barguna (Chandukhali)-Betagi-Bakerganj(Padri Shibpur) Road,Niamoti bridge,3,RCC Girder Bridge,7.5,60.209999,A
+(90.39138800000000629 22.20555500000000038),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8804,Galachipa (Haridebpur)-Bhadura-Shakharia Road,Shuhari Bridge,5,RCC Girder Bridge,5.35,80.150002,B
+(90.33944700000000694 22.25972200000000001),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8804,Galachipa (Haridebpur)-Bhadura-Shakharia Road,Bashbaria Bridge,1,RCC Girder Bridge,4.3,12.9,C
+(90.33583099999999888 22.25944499999999948),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8804,Galachipa (Haridebpur)-Bhadura-Shakharia Road,Badura bazar Bridge,3,RCC Girder Bridge,4.7,50.75,B
+(90.34305600000000425 22.45361099999999865),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Pagla Bridge,3,Baily with Steel Deck,4.13,67.449997,A
+(90.34666400000000408 22.45416600000000074),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Satbariar Bridge,1,Truss with Steel Deck,3.95,15.25,C
+(90.35333300000000634 22.46055600000000041),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Madrasha Bridge,1,Truss with Steel Deck,3.96,30.549999,A
+(90.38500200000000007 22.46194500000000005),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Ttuana Bridge,1,Truss with Steel Deck,3.92,22.1,C
+(90.39414200000000221 22.46088999999999913),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Thakurbari Bridge,4,RCC Girder Bridge,6.9,72.43,A
+(90.39416500000000099 22.46083300000000094),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Rajakhali Bridge,1,Baily with Steel Deck,4.12,12.4,A
+(90.40833299999999895 22.45138899999999893),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Taltolir Bridge,1,Baily with Steel Deck,4.12,18.52,A
+(90.42472100000000523 22.44194399999999945),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Board Office Bridge,1,Truss with Steel Deck,3.92,25.049999,C
+(90.4394450000000063 22.43277700000000152),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Jora Bridge,1,Baily with Steel Deck,4.13,15.5,A
+(90.46138799999999947 22.42583300000000079),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Bogar Bridge,1,RCC Girder Bridge,10.3,32,A
+(90.54391499999999837 22.42316599999999838),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Kagozir Bridge,1,RCC Girder Bridge,10.57,14.9,B
+(90.57971999999999468 22.39777799999999885),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Daspara Bailey Bridge,1,Baily with Steel Deck,4.1,18.5,C
+(90.58083299999999838 22.39111099999999865),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Langra Munshir bridge,1,Baily with Steel Deck,5,30.6,C
+(90.57777400000000512 22.3530559999999987),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Bosra Bridge,3,Steel Beam & RCC Slab,3.1,23.25,C
+(90.57722499999999854 22.35083399999999898),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Bogra Baily Bridge,1,Truss with Steel Deck,3.77,22.440001,C
+(90.57194499999999948 22.28916699999999906),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Dasmina Bridge,1,Baily with Steel Deck,4.1,24.6,A
+(90.55944800000000328 22.28249900000000139),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Dasmina hatun bridge,3,RCC Girder Bridge,4.7,24.1,B
+(90.5508350000000064 22.25194400000000172),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Arozebagi Bridge,1,Baily with Steel Deck,4,21.450001,C
+(90.52972400000000164 22.22250000000000014),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Kaplabunia Bailey Bridge,1,Baily with Steel Deck,4.14,24.65,C
+(90.51027700000000209 22.20972300000000033),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Gulir Bridge,7,Steel Beam & RCC Slab,2.95,48.900002,B
+(90.38749699999999621 22.18277700000000152),Barisal,Patuakhali,Barguna,Barguna,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Boro Gabua Bridge,3,Steel Beam & RCC Slab,3.06,18.4,C
+(90.32499699999999621 22.1788880000000006),Barisal,Patuakhali,Barguna,Barguna,Z8806,Lebukhali-Dumki-Boga-Bauphal-Kalaiya-Dashmina-Galachipa-Amragachhia Road,Kutuar Hat Bridge,1,Baily with Steel Deck,5.05,43,C
+(90.32277700000000209 22.53597299999999848),Barisal,Barisal,Barisal,Barisal-1,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Mehediganj bridge,1,RCC Girder Bridge,4.8,8.1499996,A
+(90.31697099999999523 22.52739000000000047),Barisal,Barisal,Barisal,Barisal-1,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Kaliganj bridge,1,RCC Girder Bridge,10.2,24,B
+(90.31166799999999739 22.5200560000000003),Barisal,Barisal,Barisal,Barisal-1,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Beltala bridge,1,RCC Girder Bridge,10.3,28.6,A
+(90.30139200000000699 22.48655499999999918),Barisal,Barisal,Barisal,Barisal-1,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Kanki bridge,1,PC Girder Bridge,10.2,50.299999,A
+(90.27713799999999367 22.45983299999999971),Barisal,Barisal,Barisal,Barisal-1,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Madhabkhali bridge,1,Truss with Steel Deck,4.25,50,A
+(90.2159419999999983 22.36252800000000107),Barisal,Patuakhali,Barguna,Barguna,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Subidkhali bazar bridge,1,Truss with Steel Deck,4.22,48.880001,C
+(90.20710800000000518 22.34605600000000081),Barisal,Patuakhali,Barguna,Barguna,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Shubidkhali bridge,1,RCC Girder Bridge,4.63,10.04,A
+(90.20471999999999468 22.3442229999999995),Barisal,Patuakhali,Barguna,Barguna,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Sarar bridge,1,RCC Girder Bridge,4.63,10.4,B
+(90.20466600000000312 22.34413899999999842),Barisal,Patuakhali,Barguna,Barguna,Z8810,Bakerganj-Padrishibpur-Kathaltali-Subidkhali-Barguna Road,Charkhali bridge,1,RCC Girder Bridge,4.25,15.1,B
+(90.10055499999999995 22.20916700000000077),Barisal,Patuakhali,Barguna,Barguna,Z8814,Barguna (Dakhin Ramna Kheya Ghat)-Dewatala-Mathbaria-Baramasua Road,Badarkhali Bara Bridge,7,Steel Beam & RCC Slab,3.97,37.669998,C
+(90.08916499999999417 22.20972300000000033),Barisal,Patuakhali,Barguna,Barguna,Z8814,Barguna (Dakhin Ramna Kheya Ghat)-Dewatala-Mathbaria-Baramasua Road,Mollahbari Bridge,5,Steel Beam & RCC Slab,3.96,26.139999,B
+(90.02527600000000518 22.26083399999999912),Barisal,Patuakhali,Barguna,Barguna,Z8814,Barguna (Dakhin Ramna Kheya Ghat)-Dewatala-Mathbaria-Baramasua Road,Kumirmara Bridge,1,Truss with Steel Deck,4.47,33.549999,C
+(89.95999899999999627 22.28277800000000042),Barisal,Barisal,Pirojpur,Kawkhali,Z8814,Barguna (Dakhin Ramna Kheya Ghat)-Dewatala-Mathbaria-Baramasua Road,Kalbari Bridge,1,Baily with Steel Deck,4.03,30.5,C
+(89.95916699999999366 22.28860999999999848),Barisal,Barisal,Pirojpur,Kawkhali,Z8814,Barguna (Dakhin Ramna Kheya Ghat)-Dewatala-Mathbaria-Baramasua Road,Sudar road high school bridge,1,Truss with Steel Deck,3.97,30.51,C
+(89.9574970000000036 22.28694499999999934),Barisal,Barisal,Pirojpur,Kawkhali,Z8814,Barguna (Dakhin Ramna Kheya Ghat)-Dewatala-Mathbaria-Baramasua Road,Goruhata Bridge,1,RCC Girder Bridge,4.63,19.9,C
+(89.8908310000000057 22.31027800000000028),Barisal,Barisal,Pirojpur,Kawkhali,Z8814,Barguna (Dakhin Ramna Kheya Ghat)-Dewatala-Mathbaria-Baramasua Road,Mollah Bari Bridge,5,Steel Beam & RCC Slab,3.2,27.309999,C
+(90.7933879999999931 22.49208300000000094),Barisal,Barisal,Bhola,Bhola,Z8905,Borhanuddin (Udypur)-Tazumauddin-Manpura-Sikdarhat Road,,1,Baily with Steel Deck,4.98,42.25,C
+(90.76416799999999796 22.18444399999999916),Barisal,Barisal,Bhola,Charfession,Z8909,Charfeshion-Betua Road,Uttar madras Bridge,1,Baily with Steel Deck,5.3,16.5,A
+(90.78805499999999995 22.1875),Barisal,Barisal,Bhola,Charfession,Z8909,Charfeshion-Betua Road,Sundari Bridge,1,Baily with Steel Deck,4.1,23,A
+(90.80999799999999311 22.19000099999999875),Barisal,Barisal,Bhola,Charfession,Z8909,Charfeshion-Betua Road,Aslumpur Bridge,1,Baily with Steel Deck,4.1,22.299999,A
+(90.51333599999999535 22.55527700000000024),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Isapurar Bridge,1,RCC Girder Bridge,7.4,20.9,B
+(90.51833299999999838 22.53416599999999903),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Vatshala Bridge,3,RCC Girder Bridge,5.3,60.099998,C
+(90.52111100000000476 22.51999999999999957),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Kumarkhali Bridge,3,RCC Girder Bridge,5,36.299999,C
+(90.54416700000000162 22.4983329999999988),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Gulbag Dhaneshar Bridge,1,RCC Girder Bridge,4.2,7,C
+(90.54499800000000675 22.48999999999999844),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Gazi Majhir Bridge,1,RCC Girder Bridge,4.2,11.3,C
+(90.55889100000000269 22.47194500000000161),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Narainpur Bridge,1,RCC Girder Bridge,4,9.5,C
+(90.56138599999999883 22.46333299999999866),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Panshi Ghata Bridge,1,RCC Girder Bridge,4.23,8.5,C
+(90.55472600000000227 22.43194400000000144),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Jor Bridge,1,RCC Girder Bridge,4.25,13,C
+(90.55416900000000169 22.43138899999999936),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Jor Bridge 2,1,RCC Girder Bridge,4.7,6,C
+(90.55472600000000227 22.42000000000000171),Barisal,Patuakhali,Patuakhali,Patuakhali,Z8910,Barisal (Bairagirpool)-Tumchar-Bauphaul Road,Madonpur Bridge,1,Baily with Steel Deck,4.84,15.3,A
+(90.68888900000000319 22.39305500000000038),Barisal,Barisal,Bhola,Charfession,Z8913,Debirchar-Nazirpur-Lalmohon-Mongolsikder-Tazumuddin Road,,8,Steel Beam & RCC Slab,3.1,43,C
+(90.68360900000000413 22.34916700000000134),Barisal,Barisal,Bhola,Charfession,Z8913,Debirchar-Nazirpur-Lalmohon-Mongolsikder-Tazumuddin Road,,1,Truss with Steel Deck,4.3,35,C
+(90.7149959999999993 22.33639000000000152),Barisal,Barisal,Bhola,Bhola,Z8913,Debirchar-Nazirpur-Lalmohon-Mongolsikder-Tazumuddin Road,,3,RCC Girder Bridge,6,26,C
+(90.73388699999999574 22.34055499999999839),Barisal,Barisal,Bhola,Bhola,Z8913,Debirchar-Nazirpur-Lalmohon-Mongolsikder-Tazumuddin Road,,3,RCC Girder Bridge,5.6,29.299999,C
+(90.79194599999999582 22.34583299999999895),Barisal,Barisal,Bhola,Bhola,Z8913,Debirchar-Nazirpur-Lalmohon-Mongolsikder-Tazumuddin Road,,1,RCC Girder Bridge,4,11,C
+(90.64277599999999779 22.59388900000000078),Barisal,Barisal,Bhola,Bhola,Z8915,Bagmara-Banglabazar-Daulatkhan Road,,2,RCC Girder Bridge,4.3,32,A
+(90.6688919999999996 22.59055499999999839),Barisal,Barisal,Bhola,Bhola,Z8915,Bagmara-Banglabazar-Daulatkhan Road,,1,Baily with Steel Deck,4.1,18,A
+(90.70471999999999468 22.60083399999999898),Barisal,Barisal,Bhola,Bhola,Z8915,Bagmara-Banglabazar-Daulatkhan Road,,1,Baily with Steel Deck,4,12,A
+(90.6805569999999932 22.61444499999999991),Barisal,Barisal,Bhola,Bhola,Z8916,Guingerhat-Charpatar School-Dalikherhat-Daulatkhjan Heli Pad-Daulatkhan Bazar Road,,1,RCC Girder Bridge,4,6,B
+(90.6902769999999947 22.61805499999999824),Barisal,Barisal,Bhola,Bhola,Z8916,Guingerhat-Charpatar School-Dalikherhat-Daulatkhjan Heli Pad-Daulatkhan Bazar Road,,1,RCC Girder Bridge,6.67,20,C
+(90.78836099999999476 22.42874899999999982),Barisal,Barisal,Bhola,Bhola,Z8943,Tajumuddin-Kunjerhat Road,,1,Truss with Steel Deck,4.21,31.07,A
+(90.77508500000000424 22.43016599999999983),Barisal,Barisal,Bhola,Bhola,Z8943,Tajumuddin-Kunjerhat Road,,1,RCC Girder Bridge,4.06,12,B
+(90.79166399999999726 22.41416699999999906),Barisal,Barisal,Bhola,Bhola,Z8948,Fakirhat-Khasherhat Road,,1,Baily with Steel Deck,5,27.360001,A
